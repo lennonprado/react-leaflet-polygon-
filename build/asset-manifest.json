@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Leaflet-App/static/css/main.f3fa6166.chunk.css",
+    "main.js": "/React-Leaflet-App/static/js/main.41f4b334.chunk.js",
+    "main.js.map": "/React-Leaflet-App/static/js/main.41f4b334.chunk.js.map",
+    "runtime-main.js": "/React-Leaflet-App/static/js/runtime-main.2e57c941.js",
+    "runtime-main.js.map": "/React-Leaflet-App/static/js/runtime-main.2e57c941.js.map",
+    "static/css/2.7c35e809.chunk.css": "/React-Leaflet-App/static/css/2.7c35e809.chunk.css",
+    "static/js/2.d86faaaa.chunk.js": "/React-Leaflet-App/static/js/2.d86faaaa.chunk.js",
+    "static/js/2.d86faaaa.chunk.js.map": "/React-Leaflet-App/static/js/2.d86faaaa.chunk.js.map",
+    "index.html": "/React-Leaflet-App/index.html",
+    "precache-manifest.95ea708989e30a764edc6c5ccbc7738c.js": "/React-Leaflet-App/precache-manifest.95ea708989e30a764edc6c5ccbc7738c.js",
+    "service-worker.js": "/React-Leaflet-App/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/React-Leaflet-App/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.f3fa6166.chunk.css.map": "/React-Leaflet-App/static/css/main.f3fa6166.chunk.css.map",
+    "static/js/2.d86faaaa.chunk.js.LICENSE.txt": "/React-Leaflet-App/static/js/2.d86faaaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e57c941.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.d86faaaa.chunk.js",
+    "static/css/main.f3fa6166.chunk.css",
+    "static/js/main.41f4b334.chunk.js"
+  ]
+}
